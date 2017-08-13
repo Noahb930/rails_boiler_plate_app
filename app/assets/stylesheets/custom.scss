@@ -1,0 +1,10 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+body{
+  background-color: #fff;
+}
+
+#nav{
+  background-color: $gray;
+}
