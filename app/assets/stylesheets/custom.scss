@@ -24,8 +24,8 @@ h1, p{
   float: left;
   width: 100%;
   margin-top: 45px;
-  @include box_sizing
+  @include box_sizing;
   -moz-box-sizing:    border-box;
   -webkit-box-sizing: border-box;
-  box-sizing: 
+  box-sizing: border-box;
 }
